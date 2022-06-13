@@ -1,13 +1,14 @@
 # 💫About Me :
-===========
-👨🏽‍💻 he/him
-🧩 Javascript/Typescript based stack [React, Node.js, React native]
-🚀 Always looking to learn something new
-🎓 Studying Computer Science at UFSC (Universidade Federal de Santa Catarina)
-💼 Working as P.O / Full Stack Dev. at [divid](www.divid.com.br)
-🤸🏽‍♂️ Cheerleader at [Maremoto](https://www.instagram.com/maremotocheer/) and gym rat
-🌐 I love technology and how can we use it to create solutions and improve human connections
-🎉 Trying to be the best version of myself
+
+👨🏽‍💻 he/him  
+🧩 javascript/Typescript based stack [React, Node.js, React native]  
+🚀 always looking to learn something new  
+🎓 studying Computer Science at UFSC (Universidade Federal de Santa Catarina)  
+💼 working as P.O / Full Stack Dev. at [divid](www.divid.com.br)  
+🤸🏽‍♂️ cheerleader at [Maremoto](https://www.instagram.com/maremotocheer/) and gym rat  
+⚡ Walt Disney World ICP and at AIESEC in Florianopolis alumnus  
+🌐 I love technology and how can we use it to create solutions and improve human connections  
+🎉 trying to be the best version of myself  
 
 
 ## 🌐Socials
