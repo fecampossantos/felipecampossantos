@@ -1,7 +1,7 @@
 # 💫About Me :
 
 👨🏽‍💻 he/him  
-🧩 javascript/Typescript based stack [React, Node.js, React native]  
+🧩 javascript/typescript based stack [React, Node.js, React native]  
 🚀 always looking to learn something new  
 🎓 studying Computer Science at UFSC (Universidade Federal de Santa Catarina)  
 💼 working as P.O / Full Stack Dev. at [divid](www.divid.com.br)  
