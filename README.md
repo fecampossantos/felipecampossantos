@@ -4,7 +4,7 @@
 🧩 javascript/typescript based stack [React, Node.js, React native]  
 🚀 always looking to learn something new  
 🎓 studying Computer Science at UFSC (Universidade Federal de Santa Catarina)  
-💼 working as P.O / Full Stack Dev. at [divid](www.divid.com.br)  
+💼 working as Frontend Dev. at [Payface](https://payface.com.br/)  
 🤸🏽‍♂️ cheerleader at [Maremoto](https://www.instagram.com/maremotocheer/) and gym rat  
 ⚡ Walt Disney World ICP and AIESEC in Florianopolis alumnus  
 🌐 I love technology and how can we use it to create solutions and improve human connections  
