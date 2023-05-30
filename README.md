@@ -3,7 +3,7 @@
 👨🏽‍💻 he/him  
 🧩 javascript/typescript based stack [React, Node.js, React native]  
 🚀 always looking to learn something new  
-🎓 studying Computer Science at UFSC (Universidade Federal de Santa Catarina)  
+🎓 graduated in Computer Science at UFSC (Universidade Federal de Santa Catarina)  
 💼 working as Frontend Dev. at [Payface](https://payface.com.br/)  
 🤸🏽‍♂️ cheerleader at [Maremoto](https://www.instagram.com/maremotocheer/) and gym rat  
 ⚡ Walt Disney World ICP and AIESEC in Florianopolis alumnus  
